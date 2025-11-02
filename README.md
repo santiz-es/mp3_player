@@ -1,8 +1,10 @@
+
 # 🎵 MP3 Player – Aplicativo Flutter de Reprodução e Download de Músicas
 
 ## 📱 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte da atividade proposta pelo professor **Rafael Amorim** na disciplina de **Mobile II**.  
+Este projeto foi desenvolvido como parte da atividade proposta pelo professor **Rafael Amorim** na disciplina de **Mobile II** do Curso de Tecnico em Analise e Desenvolvimento de Sistemas.  
+
 O aplicativo tem como objetivo **baixar e reproduzir uma playlist de músicas MP3** a partir de um **arquivo JSON hospedado em um servidor remoto**.
 
 Durante o desenvolvimento, foram aplicados conceitos de:
@@ -76,19 +78,18 @@ Se o usuário estiver **num raio de 50 metros do Campus Livramento**, uma faixa 
 
 ## 👥 Equipe de Desenvolvimento
 
-| Integrante | Função | GitHub |
+| Integrantes | 
 |-------------|---------|---------|
-| Nome 1 | Desenvolvimento Flutter e Lógica de Reprodução | [github.com/nome1](https://github.com/nome1) |
-| Nome 2 | Design da Interface e Testes | [github.com/nome2](https://github.com/nome2) |
-| Nome 3 | Integração de Áudio e Notificações | [github.com/nome3](https://github.com/nome3) |
+| Santiago Escobar 
+| Juan Martin Mosegui 
+| Verónica Ferreira 
 
-> *(Substituir pelos nomes e links corretos do grupo)*
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Flutter 3.x**
+- **Flutter **
 - **Dart**
 - **Packages:**
   - `just_audio`
@@ -142,19 +143,20 @@ Este projeto faz parte de uma proposta acadêmica supervisionada por **Prof. Raf
    ```
 5. Abra um **Pull Request** descrevendo suas mudanças.
 
----
+
 
 ## 🧾 Licença
 
 Este projeto está licenciado sob os termos da [MIT License](LICENSE.md).
 
----
+
 
 ## 📸 Captura de Tela
 
-![Tela Principal do App](./screenshot_main.png)
 
----
+
+
+![enter image description here](https://raw.githubusercontent.com/santiz-es/mp3_player/refs/heads/main/assets/screen1.jpg)
 
 > **Projeto acadêmico – Instituto Federal Sul-rio-grandense (IFSul) – Campus Santana do Livramento**  
 > Professor responsável: **Rafael Amorim**  
