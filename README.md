@@ -78,11 +78,10 @@ Se o usuário estiver **num raio de 50 metros do Campus Livramento**, uma faixa 
 
 ## 👥 Equipe de Desenvolvimento
 
-| Integrantes | 
-|-------------|---------|---------|
-| Santiago Escobar 
-| Juan Martin Mosegui 
-| Verónica Ferreira 
+## Integrantes 
+- Santiago Escobar
+- Juan Martin Mosegui 
+- Verónica Ferreira 
 
 
 ---
@@ -161,3 +160,4 @@ Este projeto está licenciado sob os termos da [MIT License](LICENSE.md).
 > **Projeto acadêmico – Instituto Federal Sul-rio-grandense (IFSul) – Campus Santana do Livramento**  
 > Professor responsável: **Rafael Amorim**  
 > © 2025 – Todos os direitos reservados aos autores do projeto.
+
